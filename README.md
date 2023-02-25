@@ -15,7 +15,7 @@
 
 
 ### У меня есть пока бессмысленное резюме на всем известном 
-![логотип хх.ру](https://www.selnow45.ru/sites/default/files/articles/5155/galery/hhh.jpg)
+![логотип хх.ру](https://tech.hh.ru/api/logos/min-hh-red.png)
 
 ловите ссылочку на него [резюме с hh](https://kazan.hh.ru/resume/f1b33a5dff0b6a4e510039ed1f793055477079)
 
@@ -62,4 +62,4 @@
 хочу вставить свою фотку бляяя
 <image src="https://web.telegram.org/4ab048f6-6e8e-4860-bd61-aa16598a6493" alt="моя фоточка">
 
-![https://web.telegram.org/4ab048f6-6e8e-4860-bd61-aa16598a6493](моя фотка)
+![моя фотка](https://sun9-east.userapi.com/sun9-30/s/v1/ig2/YwmYHJ0VU73NkQEhnMUJOCjzP9jsIAdLJ0SVs5n2DasYMftTL6XSZenFWfQdrI1r_1tEV2LmID9-YNpctqWULk5s.jpg?size=1620x2160&quality=95&type=album)
