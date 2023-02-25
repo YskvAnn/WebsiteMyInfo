@@ -61,3 +61,5 @@
 
 хочу вставить свою фотку бляяя
 <image src="https://web.telegram.org/4ab048f6-6e8e-4860-bd61-aa16598a6493" alt="моя фоточка">
+
+![https://web.telegram.org/4ab048f6-6e8e-4860-bd61-aa16598a6493](моя фотка)
