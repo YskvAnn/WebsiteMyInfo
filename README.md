@@ -1,6 +1,8 @@
 # Миру Мир!
 Я Аня, мне 20 
-![фото](C:\Users\1395277\Desktop\казань.jfif) это я
+
+![моя фотка](https://sun9-east.userapi.com/sun9-30/s/v1/ig2/YwmYHJ0VU73NkQEhnMUJOCjzP9jsIAdLJ0SVs5n2DasYMftTL6XSZenFWfQdrI1r_1tEV2LmID9-YNpctqWULk5s.jpg?size=1620x2160&quality=95&type=album)
+
 
 Я потихоньку осваиваю эти ваши компьтеры, коды, языки и тд.
 
@@ -21,13 +23,14 @@
 
 очень надеюсь, что моя прекрасная, любимая, невероятная, лучшая на свете, бомбическая онлайншкола 
 
-![логотип нетологии](https://blog-prod-bucket.website.yandexcloud.net/uploads/2020/05/новый-лого.png) поможет мне сделать мое резюме не таким уж и бессмысленным в будущем.
+![логотип нетологии](https://static.tildacdn.com/tild3439-3364-4535-b334-656263633534/main.svg) 
+поможет мне сделать мое резюме не таким уж и бессмысленным в будущем
 
 кстати, тоже ловите ссылочку на нее)) [нетология](https://netology.ru/)
 
 ## Еще немного информации обо мне!
 
-Не буду хвастаться, но я очень люблю 
+Не буду многословна, но я очень люблю 
 * спорт 
 * готовить вкусную еду
 * учиться (когда это получается) 
@@ -50,7 +53,7 @@
 ~~4. сериал~~
 
 
-  1. медитация
+  5. медитация
 
 
 # ![картиночка](https://sun9-42.userapi.com/impg/094ZtKXIETyH-u2HGVO_ylk0TNU6MOZRe_ihVw/XojSNIFYHrA.jpg?size=892x809&quality=96&sign=1b9d88efc1f9eda038ee0cc9c1f7b4b9&type=album)
@@ -58,8 +61,4 @@
 
 но как говорится _семь раз отрежь, не выловишь и рыбку из пруда_
 
-
-хочу вставить свою фотку бляяя
-<image src="https://web.telegram.org/4ab048f6-6e8e-4860-bd61-aa16598a6493" alt="моя фоточка">
-
-![моя фотка](https://sun9-east.userapi.com/sun9-30/s/v1/ig2/YwmYHJ0VU73NkQEhnMUJOCjzP9jsIAdLJ0SVs5n2DasYMftTL6XSZenFWfQdrI1r_1tEV2LmID9-YNpctqWULk5s.jpg?size=1620x2160&quality=95&type=album)
+![спасибо за внимание](https://avatars.mds.yandex.net/i?id=86ff0690259e972c2aaa983b20fac273-5234812-images-thumbs&n=13)
